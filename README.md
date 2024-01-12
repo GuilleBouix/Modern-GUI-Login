@@ -19,14 +19,14 @@ Proyecto de una interfaz de inicio de sesión moderna en Python utilizando Tkint
 	- Pillow
 
 ## Instrucciones de Uso
-# 1. Clona el repositorio.
-git clone https://github.com/GuilleBouix/Modern-GUI-Login.git
+- 1. Clona el repositorio.
+	- git clone https://github.com/GuilleBouix/Modern-GUI-Login.git
 
-# 2. Navega al Directorio del Proyecto.
-cd Modern-GUI-Login
+- 2. Navega al Directorio del Proyecto.
+	- cd Modern-GUI-Login
 
-# 3. Ejecuta el archivo `Modern Login GUI.py`.
-./Modern\ Login\ GUI.py
+- 3. Ejecuta el archivo
+  	- `Modern Login GUI.py`.
 
 ## Contribuciones
 ¡Contribuciones bienvenidas!
